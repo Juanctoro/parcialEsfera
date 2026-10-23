@@ -473,7 +473,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: d45d552f8d684903a63884e5286b0022, type: 2}
   m_SortingLayerID: 0
   m_SortingOrder: 0
 --- !u!135 &900005
@@ -498,6 +498,3 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 900002}
-
-
-
